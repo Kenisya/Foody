@@ -1,0 +1,136 @@
+body{
+    font-family: Poppins;
+}
+
+.navbar{
+    background-color: #39375B !important;
+}
+
+.navbar-brand{
+    font-weight: 600;
+}
+
+.navbar-nav{
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.btn-2{
+    border: 2px solid #745C97;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.btn-2:hover{
+    color: white;
+    background-color: #745C97;
+}
+
+.btn-1{
+    background-color: #745C97;
+    color: white;
+    margin-left: 10px;
+    font-weight: 500;
+    opacity: 90%;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.btn-1:hover{
+    color: white;
+    opacity: 100%;
+}
+
+/* content */
+.btn-pesan{
+    background-color: #745C97;
+    color: white;
+    opacity: 97%;
+    border-radius: 10px;
+    margin-top: 32px;
+}
+
+.btn-pesan:hover{
+    color: white;
+    opacity: 100%;
+    background-color: #3c2e50;
+}
+
+.title{
+    font-weight: 500;
+    font-size: 40px;
+}
+
+.subtitle{
+    font-weight: 200px;
+    margin-top: 16px;
+    font-size: 18px;
+    opacity: 0.5;
+}
+
+.card{
+    background-color: #745C97;
+    border: none;
+    color: white;
+}
+
+.btn-creative{
+    background-color: #745C97;
+    color: white;
+    font-weight: 500;
+}
+
+.btn-creative:hover{
+    background-color: #3a2c4e;
+    color: white;
+    font-weight: 500;
+}
+
+.card.card-review{
+    background-color: #39375B;
+}
+
+.image-people{
+    padding-top: 100px;
+}
+
+.btn-promotion{
+    background-color: #745C97;
+    color: white;
+    margin-top: 64px;
+}
+
+.btn-promotion:hover{
+    background-color: #16143d;
+    color: white;
+}
+
+.btn-brand{
+    text-decoration: none;
+    background-color: #39375B;
+}
+
+.btn-brand a{
+    color: white;
+}
+
+.btn-brand:hover{
+    text-decoration: none;
+    color: wheat;
+    background-color: #2d1d42;
+}
+
+.footers{
+    text-decoration: none;
+}
+
+.footers a{
+    color: white;
+}
+
+.footers a:hover{
+    text-decoration: none;
+    color: white;
+}
+
